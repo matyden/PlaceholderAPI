@@ -1,4 +1,5 @@
 # Maven
+This is the same PlaceholderAPI plugin, which has been adapted to the [Lumi](https://github.com/KoshakMineDEV/Lumi) core, replacing the old SimpleConfig class with Config
 
 ```xml
 <repositories>
